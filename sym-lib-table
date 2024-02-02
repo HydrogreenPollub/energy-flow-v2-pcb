@@ -17,4 +17,5 @@
   (lib (name "achs Current Hall Sensor")(type "KiCad")(uri "${KIPRJMOD}/Lib/ACHS-7123-000E.kicad_sym")(options "")(descr ""))
   (lib (name "HCLP2530 transoptor")(type "KiCad")(uri "${KIPRJMOD}/Lib/HCPL2531SDM.kicad_sym")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Lib/Library.kicad_sym")(options "")(descr ""))
+  (lib (name "Tracko  1-2450 5V")(type "KiCad")(uri "${KIPRJMOD}/Lib/TSR_1-2450.kicad_sym")(options "")(descr ""))
 )
