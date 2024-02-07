@@ -18,4 +18,7 @@
   (lib (name "HCLP2530 transoptor")(type "KiCad")(uri "${KIPRJMOD}/Lib/HCPL2531SDM.kicad_sym")(options "")(descr ""))
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Lib/Library.kicad_sym")(options "")(descr ""))
   (lib (name "Tracko  1-2450 5V")(type "KiCad")(uri "${KIPRJMOD}/Lib/TSR_1-2450.kicad_sym")(options "")(descr ""))
+  (lib (name "XT30")(type "KiCad")(uri "${KIPRJMOD}/Lib/XT30PW-F.kicad_sym")(options "")(descr ""))
+  (lib (name "XT60")(type "KiCad")(uri "${KIPRJMOD}/Lib/XT60PW-M.kicad_sym")(options "")(descr ""))
+  (lib (name "molex 3pin Can")(type "KiCad")(uri "${KIPRJMOD}/Lib/39-30-3035.kicad_sym")(options "")(descr ""))
 )
