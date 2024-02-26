@@ -1133,7 +1133,7 @@
           (reference "#PWR06") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR057") (unit 1)
         )
       )
     )
@@ -1142,7 +1142,7 @@
   (symbol (lib_id "Device:R") (at 249.555 33.655 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0d28f589-4de4-4ca4-9bc8-cb51762b0b64)
-    (property "Reference" "R14" (at 249.555 27.94 90)
+    (property "Reference" "R20" (at 249.555 27.94 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 249.555 30.48 90)
@@ -1159,7 +1159,7 @@
     (instances
       (project "schematic-main"
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "R14") (unit 1)
+          (reference "R20") (unit 1)
         )
       )
     )
@@ -1192,7 +1192,7 @@
           (reference "#PWR07") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR038") (unit 1)
+          (reference "#PWR050") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/8fa22090-ff4c-4c1d-88ea-3ea830fd1860"
           (reference "#PWR0105") (unit 1)
@@ -1263,7 +1263,7 @@
           (reference "C27") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "C24") (unit 1)
+          (reference "C30") (unit 1)
         )
       )
     )
@@ -1272,7 +1272,7 @@
   (symbol (lib_id "Device:R") (at 249.555 56.515 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 12f945fd-4529-4ca0-b49e-aed2bad2c3a7)
-    (property "Reference" "R24" (at 249.555 50.165 90)
+    (property "Reference" "R22" (at 249.555 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100R" (at 249.555 52.705 90)
@@ -1289,7 +1289,7 @@
     (instances
       (project "schematic-main"
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "R24") (unit 1)
+          (reference "R22") (unit 1)
         )
       )
     )
@@ -1304,7 +1304,7 @@
     (property "Value" "+5V" (at 213.36 67.945 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 220.345 61.595 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 220.345 61.595 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.345 61.595 0)
@@ -1348,7 +1348,7 @@
           (reference "R2") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "R20") (unit 1)
+          (reference "R17") (unit 1)
         )
       )
     )
@@ -1388,7 +1388,7 @@
           (reference "U3") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "U5") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -1416,7 +1416,7 @@
           (reference "#PWR07") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR062") (unit 1)
+          (reference "#PWR069") (unit 1)
         )
       )
     )
@@ -1446,7 +1446,7 @@
       )
       (project "schematic-main"
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR048") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/8fa22090-ff4c-4c1d-88ea-3ea830fd1860"
           (reference "#PWR0104") (unit 1)
@@ -1483,7 +1483,7 @@
           (reference "R17") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "R18") (unit 1)
+          (reference "R15") (unit 1)
         )
       )
     )
@@ -1492,7 +1492,7 @@
   (symbol (lib_id "Device:R") (at 249.555 74.295 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3653068c-81ae-4c68-8147-336a4090083a)
-    (property "Reference" "R25" (at 249.555 68.58 90)
+    (property "Reference" "R23" (at 249.555 68.58 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100R" (at 249.555 71.12 90)
@@ -1509,7 +1509,7 @@
     (instances
       (project "schematic-main"
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "R25") (unit 1)
+          (reference "R23") (unit 1)
         )
       )
     )
@@ -1538,7 +1538,7 @@
           (reference "R2") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "R36") (unit 1)
+          (reference "R25") (unit 1)
         )
       )
     )
@@ -1572,7 +1572,7 @@
           (reference "R4") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "R22") (unit 1)
+          (reference "R19") (unit 1)
         )
       )
     )
@@ -1605,7 +1605,7 @@
           (reference "#PWR06") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR065") (unit 1)
+          (reference "#PWR051") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/8fa22090-ff4c-4c1d-88ea-3ea830fd1860"
           (reference "#PWR0106") (unit 1)
@@ -1623,7 +1623,7 @@
     (property "Value" "+12V" (at 212.725 53.975 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 220.345 46.99 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 220.345 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.345 46.99 0)
@@ -1648,7 +1648,7 @@
     (property "Value" "I/O 4" (at 242.443 71.12 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 245.745 69.215 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 245.745 69.215 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 245.745 69.215 0)
@@ -1691,7 +1691,7 @@
           (reference "#PWR032") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR044") (unit 1)
+          (reference "#PWR064") (unit 1)
         )
       )
     )
@@ -1706,7 +1706,7 @@
     (property "Value" "I/O 1" (at 242.443 30.48 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 245.745 28.575 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 245.745 28.575 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 245.745 28.575 0)
@@ -1731,7 +1731,7 @@
     (property "Value" "+3.3V" (at 213.36 81.915 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 220.98 75.565 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 220.98 75.565 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.98 75.565 0)
@@ -1774,7 +1774,7 @@
           (reference "#PWR043") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR043") (unit 1)
+          (reference "#PWR061") (unit 1)
         )
       )
     )
@@ -1838,7 +1838,7 @@
           (reference "C7") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "C33") (unit 1)
+          (reference "C31") (unit 1)
         )
       )
     )
@@ -1853,7 +1853,7 @@
     (property "Value" "I/O 3" (at 242.443 53.975 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 245.745 51.435 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 245.745 51.435 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 245.745 51.435 0)
@@ -1896,7 +1896,7 @@
           (reference "#PWR029") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR045") (unit 1)
+          (reference "#PWR062") (unit 1)
         )
       )
     )
@@ -1964,7 +1964,7 @@
           (reference "R3") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "R21") (unit 1)
+          (reference "R18") (unit 1)
         )
       )
     )
@@ -2026,7 +2026,7 @@
           (reference "#PWR029") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR064") (unit 1)
+          (reference "#PWR071") (unit 1)
         )
       )
     )
@@ -2035,7 +2035,7 @@
   (symbol (lib_id "ad8544:AD8544ARUZ-REEL") (at 91.44 113.03 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9577a04f-e5fe-4930-841c-721c323d0081)
-    (property "Reference" "IC1" (at 85.9282 105.5878 0)
+    (property "Reference" "IC2" (at 85.9282 105.5878 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AD8544ARUZ-REEL" (at 86.7156 108.1786 0)
@@ -2079,7 +2079,7 @@
     (instances
       (project "schematic-main"
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "IC1") (unit 1)
+          (reference "IC2") (unit 1)
         )
       )
     )
@@ -2112,7 +2112,7 @@
           (reference "#PWR012") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR041") (unit 1)
+          (reference "#PWR056") (unit 1)
         )
       )
     )
@@ -2145,7 +2145,7 @@
           (reference "#PWR031") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR046") (unit 1)
+          (reference "#PWR063") (unit 1)
         )
       )
     )
@@ -2178,7 +2178,7 @@
           (reference "#PWR033") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR047") (unit 1)
+          (reference "#PWR065") (unit 1)
         )
       )
     )
@@ -2187,7 +2187,7 @@
   (symbol (lib_id "Device:R") (at 249.555 43.18 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aa6f7728-48af-4ac6-b09e-8294cabc08bc)
-    (property "Reference" "R15" (at 249.555 37.465 90)
+    (property "Reference" "R21" (at 249.555 37.465 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 249.555 40.005 90)
@@ -2204,7 +2204,7 @@
     (instances
       (project "schematic-main"
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "R15") (unit 1)
+          (reference "R21") (unit 1)
         )
       )
     )
@@ -2219,7 +2219,7 @@
     (property "Value" "GND" (at 212.725 33.655 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 220.345 27.305 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 220.345 27.305 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.345 27.305 0)
@@ -2263,7 +2263,7 @@
           (reference "C7") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "C23") (unit 1)
+          (reference "C28") (unit 1)
         )
       )
     )
@@ -2292,7 +2292,7 @@
           (reference "C27") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "C26") (unit 1)
+          (reference "C29") (unit 1)
         )
       )
     )
@@ -2320,7 +2320,7 @@
           (reference "#PWR013") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR078") (unit 1)
+          (reference "#PWR060") (unit 1)
         )
       )
     )
@@ -2335,7 +2335,7 @@
     (property "Value" "+5V" (at 213.36 61.595 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 220.345 55.245 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 220.345 55.245 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.345 55.245 0)
@@ -2378,7 +2378,7 @@
           (reference "#PWR012") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR066") (unit 1)
+          (reference "#PWR052") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/8fa22090-ff4c-4c1d-88ea-3ea830fd1860"
           (reference "#PWR0108") (unit 1)
@@ -2414,7 +2414,7 @@
           (reference "#PWR0107") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR036") (unit 1)
+          (reference "#PWR049") (unit 1)
         )
       )
     )
@@ -2429,7 +2429,7 @@
     (property "Value" "+12V" (at 212.725 47.625 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 220.345 41.91 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 220.345 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.345 41.91 0)
@@ -2472,7 +2472,7 @@
           (reference "#PWR013") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR037") (unit 1)
+          (reference "#PWR054") (unit 1)
         )
       )
     )
@@ -2500,7 +2500,7 @@
           (reference "#PWR029") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR063") (unit 1)
+          (reference "#PWR070") (unit 1)
         )
       )
     )
@@ -2528,7 +2528,7 @@
           (reference "#PWR07") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR080") (unit 1)
+          (reference "#PWR053") (unit 1)
         )
       )
     )
@@ -2537,7 +2537,7 @@
   (symbol (lib_id "power:+5V") (at 220.345 60.325 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cedf2273-502c-4f1f-a7d6-0af2f41e50cd)
-    (property "Reference" "#PWR056" (at 216.535 60.325 0)
+    (property "Reference" "#PWR068" (at 216.535 60.325 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (at 223.52 60.325 90)
@@ -2553,7 +2553,7 @@
     (instances
       (project "schematic-main"
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR056") (unit 1)
+          (reference "#PWR068") (unit 1)
         )
       )
     )
@@ -2587,7 +2587,7 @@
           (reference "R18") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "R19") (unit 1)
+          (reference "R16") (unit 1)
         )
       )
     )
@@ -2616,7 +2616,7 @@
           (reference "R2") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "R35") (unit 1)
+          (reference "R24") (unit 1)
         )
       )
     )
@@ -2649,7 +2649,7 @@
           (reference "#PWR011") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR035") (unit 1)
+          (reference "#PWR055") (unit 1)
         )
       )
     )
@@ -2678,7 +2678,7 @@
           (reference "C27") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "C30") (unit 1)
+          (reference "C27") (unit 1)
         )
       )
     )
@@ -2693,7 +2693,7 @@
     (property "Value" "I/O 2" (at 242.443 40.64 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 245.745 38.1 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 245.745 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 245.745 38.1 0)
@@ -2736,7 +2736,7 @@
           (reference "#PWR042") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR042") (unit 1)
+          (reference "#PWR058") (unit 1)
         )
       )
     )
@@ -2745,7 +2745,7 @@
   (symbol (lib_id "power:+12V") (at 220.345 46.99 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ea787167-bf09-47d2-8dac-0e645d0b5d0a)
-    (property "Reference" "#PWR055" (at 216.535 46.99 0)
+    (property "Reference" "#PWR067" (at 216.535 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 224.155 46.99 90)
@@ -2761,7 +2761,7 @@
     (instances
       (project "schematic-main"
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR055") (unit 1)
+          (reference "#PWR067") (unit 1)
         )
       )
     )
@@ -2789,7 +2789,7 @@
           (reference "#PWR042") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR039") (unit 1)
+          (reference "#PWR066") (unit 1)
         )
       )
     )
@@ -2804,7 +2804,7 @@
     (property "Value" "+3.3V" (at 213.36 75.565 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 220.98 69.215 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 220.98 69.215 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.98 69.215 0)
@@ -2829,7 +2829,7 @@
     (property "Value" "GND" (at 212.09 40.005 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 220.345 33.655 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical" (at 220.345 33.655 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.345 33.655 0)
@@ -2867,7 +2867,7 @@
           (reference "#PWR07") (unit 1)
         )
         (path "/c9ad7189-d3b2-414a-9743-efd8e57cd755/e4695f4d-6fa6-4597-a598-6a2f28a255eb"
-          (reference "#PWR076") (unit 1)
+          (reference "#PWR059") (unit 1)
         )
       )
     )
