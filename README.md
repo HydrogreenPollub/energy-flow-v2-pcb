@@ -1,3 +1,3 @@
-## Fuel cell control unit PCB
+## Energy flow PCB
 
-CADLAB preview: [link](https://cadlab.io/project/27518) 
+CADLAB preview: [link](https://cadlab.io/project/27708) 
