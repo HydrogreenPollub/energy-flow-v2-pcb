@@ -2436,76 +2436,6 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 200.66 30.48 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0e9fd529-3147-46ba-8415-9fdc2896b033")
-		(property "Reference" "J3"
-			(at 198.12 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "FUEL CELL"
-			(at 198.12 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "library:XT30PWF"
-			(at 200.66 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 200.66 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 200.66 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "97aac08c-68fa-4f34-b2b6-510cefbccb70")
-		)
-		(pin "2"
-			(uuid "eaa645d6-d12c-42a5-b005-33c9b8c9258e")
-		)
-		(instances
-			(project "schematic-main"
-				(path "/c9ad7189-d3b2-414a-9743-efd8e57cd755"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
 		(at 261.62 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3005,6 +2935,75 @@
 			(project "schematic-main"
 				(path "/c9ad7189-d3b2-414a-9743-efd8e57cd755"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 200.66 33.02 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7175a1b8-4672-4390-aff8-8d4d01f184fd")
+		(property "Reference" "J3"
+			(at 198.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "FUEL CELL"
+			(at 198.12 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "library:XT30PWF"
+			(at 200.66 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 200.66 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "145385c0-40bf-4d1d-a1ae-a54691203a93")
+		)
+		(pin "2"
+			(uuid "3ef45cc8-eb60-4fa5-b28c-339febb8a52c")
+		)
+		(instances
+			(project "schematic-main"
+				(path "/c9ad7189-d3b2-414a-9743-efd8e57cd755"
+					(reference "J3")
 					(unit 1)
 				)
 			)
