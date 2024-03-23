@@ -21,4 +21,5 @@
   (lib (name "XT30")(type "KiCad")(uri "${KIPRJMOD}/Lib/XT30PW-F.kicad_sym")(options "")(descr ""))
   (lib (name "XT60")(type "KiCad")(uri "${KIPRJMOD}/Lib/XT60PW-M.kicad_sym")(options "")(descr ""))
   (lib (name "molex 3pin Can")(type "KiCad")(uri "${KIPRJMOD}/Lib/39-30-3035.kicad_sym")(options "")(descr ""))
+  (lib (name "digital pot 100k")(type "KiCad")(uri "${KIPRJMOD}/Lib/MCP4018T-503E_LT.kicad_sym")(options "")(descr ""))
 )

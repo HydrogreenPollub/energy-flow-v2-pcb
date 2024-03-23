@@ -1578,6 +1578,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.908 81.28) (xy 152.908 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2275ee02-f201-4449-a65a-9c12ca47b829")
+	)
+	(wire
+		(pts
 			(xy 102.87 85.09) (xy 93.98 85.09)
 		)
 		(stroke
@@ -1615,6 +1625,16 @@
 			(type default)
 		)
 		(uuid "2f5fa27d-e81c-471f-9a80-beaea80ff2a3")
+	)
+	(wire
+		(pts
+			(xy 150.495 81.28) (xy 150.495 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31e1e857-b67b-4c17-885e-bb2ca6ebbe02")
 	)
 	(wire
 		(pts
@@ -4305,6 +4325,26 @@
 			)
 			(uuid "66f8b1ae-a205-4eb2-b695-461ff344d7a2")
 		)
+		(pin "SDA_D_Pot_i2c_MCU" output
+			(at 152.908 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c02028dc-7a7a-4728-8029-46079aaacb4f")
+		)
+		(pin "SCL_D_Pot_i2c_MCU" output
+			(at 150.495 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "093fb92a-3b0d-4e75-91c4-f6cdc4fff915")
+		)
 		(instances
 			(project "schematic-main"
 				(path "/c9ad7189-d3b2-414a-9743-efd8e57cd755"
@@ -4640,6 +4680,26 @@
 				(justify right)
 			)
 			(uuid "b8037ef6-77bd-47c3-87f0-32a937904303")
+		)
+		(pin "SCL_D_Pot_i2c_MCU" output
+			(at 150.495 81.28 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ea96a825-9204-487a-a5c0-f8ff2df6d914")
+		)
+		(pin "SDA_D_Pot_i2c_MCU" output
+			(at 152.908 81.28 270)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "eb39068a-4cbf-44dc-ba57-6fc9323ca9cb")
 		)
 		(instances
 			(project "schematic-main"

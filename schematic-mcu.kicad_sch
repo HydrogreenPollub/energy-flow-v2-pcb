@@ -3081,6 +3081,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.119 125.73) (xy 195.58 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "073fdd5a-2602-4b18-824e-b3a554cb7b00")
+	)
+	(wire
+		(pts
 			(xy 191.77 107.95) (xy 195.58 107.95)
 		)
 		(stroke
@@ -3911,6 +3921,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.246 128.27) (xy 195.58 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc277865-8977-4429-9fa5-de1e1297739f")
+	)
+	(wire
+		(pts
 			(xy 54.229 153.289) (xy 54.229 165.989)
 		)
 		(stroke
@@ -4449,6 +4469,18 @@
 		)
 		(uuid "3ac497f6-1a1e-4fb2-bb37-34aeebea6dbe")
 	)
+	(hierarchical_label "SCL_D_Pot_i2c_MCU"
+		(shape output)
+		(at 190.119 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "73bf0a97-16af-41b9-b2ee-ca758d22ead2")
+	)
 	(hierarchical_label "GND"
 		(shape passive)
 		(at 26.67 41.91 180)
@@ -4532,6 +4564,18 @@
 			(justify right)
 		)
 		(uuid "d23b6b63-6667-48f8-a9af-d17b68de69ed")
+	)
+	(hierarchical_label "SDA_D_Pot_i2c_MCU"
+		(shape output)
+		(at 190.246 128.27 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e09c4984-21b6-4360-b753-4e6ef5fb2ffd")
 	)
 	(hierarchical_label "FC_Voltage_MCU"
 		(shape input)
