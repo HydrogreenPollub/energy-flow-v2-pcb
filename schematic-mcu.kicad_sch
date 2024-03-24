@@ -2974,8 +2974,8 @@
 		(uuid "23269a91-4e7d-4501-8fa6-a33fa9fa7dd4")
 	)
 	(no_connect
-		(at 261.62 130.81)
-		(uuid "26e21e03-05ac-463b-84c0-50cfbb98d72b")
+		(at 261.62 115.57)
+		(uuid "37cfdc3d-69b1-49e3-9813-7978748dba5d")
 	)
 	(no_connect
 		(at 261.62 120.65)
@@ -2986,6 +2986,10 @@
 		(uuid "48be1952-e8fc-4ed8-8521-2a2a4bfa8064")
 	)
 	(no_connect
+		(at 195.58 125.73)
+		(uuid "48d70e44-e604-4351-b13b-f6f6b4e8f293")
+	)
+	(no_connect
 		(at 195.58 138.43)
 		(uuid "57f17cf7-5007-4a39-87de-c930953cfd36")
 	)
@@ -2994,12 +2998,16 @@
 		(uuid "7584f7e6-1cd6-4767-98c1-6d7e369e4a83")
 	)
 	(no_connect
-		(at 261.62 110.49)
-		(uuid "76ffe7d0-ed67-42c8-a625-1cb0e111983b")
+		(at 261.62 95.25)
+		(uuid "7af4b478-4af0-48ef-bba9-1938262065b5")
 	)
 	(no_connect
 		(at 261.62 140.97)
 		(uuid "7bd2ba0e-106e-4e6f-90e3-fb8045adf4ff")
+	)
+	(no_connect
+		(at 261.62 100.33)
+		(uuid "7c4d7e44-294f-4be7-a765-a822c5e91f04")
 	)
 	(no_connect
 		(at 195.58 130.81)
@@ -3018,14 +3026,6 @@
 		(uuid "8a5fab87-0ac8-4694-87dc-7770c7826f58")
 	)
 	(no_connect
-		(at 261.62 118.11)
-		(uuid "9dd1166e-d6e7-42d6-9e89-f2fe4cab6cf0")
-	)
-	(no_connect
-		(at 261.62 133.35)
-		(uuid "9f4cd2ab-841d-4a02-b377-d4cee95f8935")
-	)
-	(no_connect
 		(at 261.62 125.73)
 		(uuid "a317b947-3aaa-46e1-ad0a-454311c66339")
 	)
@@ -3034,8 +3034,16 @@
 		(uuid "ad280bb8-5c98-4d12-b3f8-9a02a372446e")
 	)
 	(no_connect
+		(at 261.62 105.41)
+		(uuid "bb5afac5-3d8b-4ff1-9d9c-f6ba05f0a6cf")
+	)
+	(no_connect
 		(at 261.62 146.05)
 		(uuid "c9d910af-b459-43be-a7fa-3e58bd89707f")
+	)
+	(no_connect
+		(at 195.58 128.27)
+		(uuid "d1167c4e-3902-4e20-961b-ae2be56f8839")
 	)
 	(no_connect
 		(at 195.58 110.49)
@@ -3044,10 +3052,6 @@
 	(no_connect
 		(at 261.62 135.89)
 		(uuid "ea0f6a1d-4680-4077-9611-b1c50e8fc13e")
-	)
-	(no_connect
-		(at 261.62 107.95)
-		(uuid "f13857c8-c5a3-48bd-ac1c-92adab460974")
 	)
 	(wire
 		(pts
@@ -3078,16 +3082,6 @@
 			(type default)
 		)
 		(uuid "0717864d-dbab-4a25-a26b-f112a4e658b3")
-	)
-	(wire
-		(pts
-			(xy 190.119 125.73) (xy 195.58 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "073fdd5a-2602-4b18-824e-b3a554cb7b00")
 	)
 	(wire
 		(pts
@@ -3921,16 +3915,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.246 128.27) (xy 195.58 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc277865-8977-4429-9fa5-de1e1297739f")
-	)
-	(wire
-		(pts
 			(xy 54.229 153.289) (xy 54.229 165.989)
 		)
 		(stroke
@@ -4433,18 +4417,6 @@
 		)
 		(uuid "2ce9a8fb-a300-4100-87e9-f25a3658659e")
 	)
-	(hierarchical_label "I{slash}O_2_MCU"
-		(shape input)
-		(at 261.62 115.57 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "388b2b97-3c69-4eb0-b0e4-898fd8135576")
-	)
 	(hierarchical_label "CAN_RX"
 		(shape input)
 		(at 191.77 105.41 180)
@@ -4457,9 +4429,9 @@
 		)
 		(uuid "39121143-d16a-45e5-a1ef-397ca7f5f988")
 	)
-	(hierarchical_label "SC_c_MCU"
+	(hierarchical_label "FC_c_MCU"
 		(shape input)
-		(at 261.62 97.79 0)
+		(at 261.62 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4467,11 +4439,11 @@
 			)
 			(justify left)
 		)
-		(uuid "3ac497f6-1a1e-4fb2-bb37-34aeebea6dbe")
+		(uuid "60119ff6-0bb5-4d2e-b773-384e2a65ca57")
 	)
 	(hierarchical_label "SCL_D_Pot_i2c_MCU"
 		(shape output)
-		(at 190.119 125.73 180)
+		(at 195.58 118.11 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4479,7 +4451,19 @@
 			)
 			(justify right)
 		)
-		(uuid "73bf0a97-16af-41b9-b2ee-ca758d22ead2")
+		(uuid "6716e6e4-bf00-4cec-9c6a-1718f0c330db")
+	)
+	(hierarchical_label "I{slash}O_2_MCU"
+		(shape input)
+		(at 261.62 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6db63d18-b6db-4e4a-8dea-925dd32c0be4")
 	)
 	(hierarchical_label "GND"
 		(shape passive)
@@ -4493,21 +4477,9 @@
 		)
 		(uuid "77a23efa-2733-4046-8a2c-ca3451dc80e4")
 	)
-	(hierarchical_label "I{slash}O_4_MCU"
-		(shape input)
-		(at 261.62 128.27 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "77f4070c-813f-49b2-973b-8c687e245744")
-	)
 	(hierarchical_label "I{slash}O_1_MCU"
 		(shape input)
-		(at 261.62 113.03 0)
+		(at 261.62 107.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4515,7 +4487,19 @@
 			)
 			(justify left)
 		)
-		(uuid "a8f36298-65a4-4bb2-b663-042b5141e9c7")
+		(uuid "7d740243-29d4-41ae-ab9b-611172e379e5")
+	)
+	(hierarchical_label "SC_Voltage_MCU"
+		(shape input)
+		(at 261.62 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9cc8ad01-1442-41d8-b15b-4a48d95e571f")
 	)
 	(hierarchical_label "Converter_PWM_A_MCU"
 		(shape output)
@@ -4529,6 +4513,18 @@
 		)
 		(uuid "aea273bc-b4e2-408d-9771-3732bdf599ff")
 	)
+	(hierarchical_label "I{slash}O_3_MCU"
+		(shape input)
+		(at 261.62 118.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "af86999c-b966-4c76-95a9-e50e7fb47844")
+	)
 	(hierarchical_label "Converter_PWM_B_MCU"
 		(shape output)
 		(at 191.77 143.51 180)
@@ -4541,9 +4537,9 @@
 		)
 		(uuid "b3db7838-c82c-41fb-9f22-cacf9781fc31")
 	)
-	(hierarchical_label "MC_c_MCU"
+	(hierarchical_label "SC_c_MCU"
 		(shape input)
-		(at 261.62 100.33 0)
+		(at 261.62 128.27 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4551,7 +4547,7 @@
 			)
 			(justify left)
 		)
-		(uuid "bf454e10-6a6b-42ac-9be5-a542d22744b0")
+		(uuid "bfff1793-6647-44bb-b9f1-c9b3cb02e778")
 	)
 	(hierarchical_label "LED_CAN_STATUS"
 		(shape output)
@@ -4565,18 +4561,6 @@
 		)
 		(uuid "d23b6b63-6667-48f8-a9af-d17b68de69ed")
 	)
-	(hierarchical_label "SDA_D_Pot_i2c_MCU"
-		(shape output)
-		(at 190.246 128.27 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e09c4984-21b6-4360-b753-4e6ef5fb2ffd")
-	)
 	(hierarchical_label "FC_Voltage_MCU"
 		(shape input)
 		(at 261.62 102.87 0)
@@ -4589,7 +4573,19 @@
 		)
 		(uuid "e0c77dc7-8159-440a-a3ca-e302e681e6ad")
 	)
-	(hierarchical_label "I{slash}O_3_MCU"
+	(hierarchical_label "SDA_D_Pot_i2c_MCU"
+		(shape output)
+		(at 261.62 133.35 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0deaecc-9983-48cb-9013-4c00852b257f")
+	)
+	(hierarchical_label "I{slash}O_4_MCU"
 		(shape input)
 		(at 261.62 123.19 0)
 		(fields_autoplaced yes)
@@ -4599,31 +4595,7 @@
 			)
 			(justify left)
 		)
-		(uuid "e3ce42db-ff20-4fc9-82ce-1f20026b8dee")
-	)
-	(hierarchical_label "FC_c_MCU"
-		(shape input)
-		(at 261.62 95.25 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f5ba481b-064f-464d-b10b-2441b240ffcd")
-	)
-	(hierarchical_label "SC_Voltage_MCU"
-		(shape input)
-		(at 261.62 105.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "fc31234a-a7d0-40d3-942a-e3db3e1d8cb9")
+		(uuid "e9ad5f28-48e2-4e2e-91e1-40c82fa0b6e9")
 	)
 	(hierarchical_label "USB_D+"
 		(shape bidirectional)
@@ -4636,6 +4608,18 @@
 			(justify right)
 		)
 		(uuid "fdcb8524-f88f-4d03-9e60-a009281d8a66")
+	)
+	(hierarchical_label "MC_c_MCU"
+		(shape input)
+		(at 261.62 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ff499811-4403-4e9a-b345-b52dfdae1a6d")
 	)
 	(symbol
 		(lib_id "power:GND")

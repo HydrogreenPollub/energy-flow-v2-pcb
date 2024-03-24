@@ -5138,13 +5138,13 @@
 		(uuid "68946abb-9d2a-44f7-a601-19a0c4fbaa90")
 	)
 	(label "SC_c1"
-		(at 243.84 33.02 180)
+		(at 228.6 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "6a96f2ab-e95b-4767-bc22-a5d010c2019d")
 	)
@@ -5160,17 +5160,6 @@
 		(uuid "84cba4e9-da47-41e4-b56c-7484e1b360b3")
 	)
 	(label "MC_c2"
-		(at 259.715 22.225 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8c652bf1-ebef-4eff-b2b5-6d0f04d7e4a8")
-	)
-	(label "MC_c1"
 		(at 274.955 22.225 180)
 		(fields_autoplaced yes)
 		(effects
@@ -5178,6 +5167,17 @@
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
+		)
+		(uuid "8c652bf1-ebef-4eff-b2b5-6d0f04d7e4a8")
+	)
+	(label "MC_c1"
+		(at 259.715 22.225 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
 		)
 		(uuid "8e55b33a-e45a-4519-b392-c8a151c12499")
 	)
@@ -5237,13 +5237,13 @@
 		(uuid "bc43d8c9-0705-4ac2-95c4-09417a90952a")
 	)
 	(label "SC_c2"
-		(at 228.6 33.02 0)
+		(at 243.84 33.02 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "edd26b2f-3055-4dae-acfc-5f75314136f4")
 	)
@@ -6202,7 +6202,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "SKL120-AQ"
 			(at 229.87 131.445 0)
 			(effects
 				(font
@@ -6210,7 +6210,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "SODFL3718X170N"
 			(at 229.87 135.255 0)
 			(effects
 				(font
@@ -7339,7 +7339,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "SKL120-AQ"
 			(at 157.48 163.83 0)
 			(effects
 				(font
@@ -7347,7 +7347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "SODFL3718X170N"
 			(at 157.48 160.02 0)
 			(effects
 				(font
@@ -8151,7 +8151,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "SKL120-AQ"
 			(at 227.33 83.82 0)
 			(effects
 				(font
@@ -8159,7 +8159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "SODFL3718X170N"
 			(at 227.33 87.63 0)
 			(effects
 				(font
@@ -11636,7 +11636,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "SKL120-AQ"
 			(at 158.75 116.84 0)
 			(effects
 				(font
@@ -11644,7 +11644,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "SODFL3718X170N"
 			(at 158.75 113.03 0)
 			(effects
 				(font
@@ -12077,7 +12077,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "SKL120-AQ"
 			(at 177.8 98.425 90)
 			(effects
 				(font
@@ -12085,7 +12085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "SODFL3718X170N"
 			(at 183.515 97.155 0)
 			(effects
 				(font
@@ -12238,7 +12238,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "SKL120-AQ"
 			(at 176.53 145.415 90)
 			(effects
 				(font
@@ -12246,7 +12246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "SODFL3718X170N"
 			(at 182.245 144.145 0)
 			(effects
 				(font

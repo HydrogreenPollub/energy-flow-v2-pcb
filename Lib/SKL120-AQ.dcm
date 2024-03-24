@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SKL120-AQ
+D Schottky Diodes & Rectifiers Schottky, SOD-123FL, 200V, 1A, AEC-Q101
+K
+F https://diotec.com/request/datasheet/skl12.pdf
+$ENDCMP
+#
+#End Doc Library
