@@ -3448,7 +3448,7 @@
 		)
 		(uuid "b18835f0-d4c3-42db-a464-aef1a752e40c")
 	)
-	(hierarchical_label "VBUS"
+	(hierarchical_label "Vin"
 		(shape input)
 		(at 36.1823 109.3216 180)
 		(fields_autoplaced yes)
@@ -3752,7 +3752,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSR-1-24120"
+		(property "Footprint" "Lib:TSR-1-24120"
 			(at 212.09 146.99 0)
 			(effects
 				(font

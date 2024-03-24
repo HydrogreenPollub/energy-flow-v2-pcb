@@ -5631,7 +5631,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 80.137 112.395 90)
 			(effects
 				(font
@@ -5707,7 +5707,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 78.867 147.32 90)
 			(effects
 				(font
@@ -5921,7 +5921,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 80.137 120.015 90)
 			(effects
 				(font
@@ -5996,7 +5996,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 227.838 40.64 90)
 			(effects
 				(font
@@ -6069,7 +6069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 247.015 155.067 90)
 			(effects
 				(font
@@ -6210,7 +6210,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SODFL3718X170N"
+		(property "Footprint" "Lib:SODFL3718X170N"
 			(at 229.87 135.255 0)
 			(effects
 				(font
@@ -6502,7 +6502,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CSD19531Q5AT"
+		(property "Footprint" "Lib:CSD19531Q5AT"
 			(at 127.635 -23.8 0)
 			(effects
 				(font
@@ -6643,7 +6643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP50P490X110-10N"
+		(property "Footprint" "Lib:SOP50P490X110-10N"
 			(at 209.55 242.24 0)
 			(effects
 				(font
@@ -6787,7 +6787,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 110.49 42.672 90)
 			(effects
 				(font
@@ -6931,7 +6931,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 157.48 154.178 90)
 			(effects
 				(font
@@ -7347,7 +7347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SODFL3718X170N"
+		(property "Footprint" "Lib:SODFL3718X170N"
 			(at 157.48 160.02 0)
 			(effects
 				(font
@@ -7653,7 +7653,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 48.895 90)
 			(effects
 				(font
@@ -7866,7 +7866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 77.597 182.245 90)
 			(effects
 				(font
@@ -8159,7 +8159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SODFL3718X170N"
+		(property "Footprint" "Lib:SODFL3718X170N"
 			(at 227.33 87.63 0)
 			(effects
 				(font
@@ -8326,7 +8326,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 216.027 114.935 90)
 			(effects
 				(font
@@ -8472,7 +8472,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 158.75 107.188 90)
 			(effects
 				(font
@@ -8844,7 +8844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P606X204-8N"
+		(property "Footprint" "Lib:SOIC127P606X204-8N"
 			(at 53.34 268.91 0)
 			(effects
 				(font
@@ -9350,7 +9350,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 229.87 140.208 90)
 			(effects
 				(font
@@ -9486,7 +9486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 227.838 52.07 90)
 			(effects
 				(font
@@ -9562,7 +9562,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 214.757 161.925 90)
 			(effects
 				(font
@@ -9630,7 +9630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CSD19531Q5AT"
+		(property "Footprint" "Lib:CSD19531Q5AT"
 			(at 182.88 -22.53 0)
 			(effects
 				(font
@@ -9847,7 +9847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 159.512 67.31 90)
 			(effects
 				(font
@@ -9921,7 +9921,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 249.555 154.178 90)
 			(effects
 				(font
@@ -9991,7 +9991,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 78.867 154.94 90)
 			(effects
 				(font
@@ -10136,7 +10136,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 77.597 189.865 90)
 			(effects
 				(font
@@ -10356,7 +10356,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 84.582 37.465 90)
 			(effects
 				(font
@@ -10929,7 +10929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 200.66 41.402 90)
 			(effects
 				(font
@@ -11284,7 +11284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 248.285 108.077 90)
 			(effects
 				(font
@@ -11428,7 +11428,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CSD19531Q5AT"
+		(property "Footprint" "Lib:CSD19531Q5AT"
 			(at 200.66 -56.82 0)
 			(effects
 				(font
@@ -11571,7 +11571,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 159.512 41.91 90)
 			(effects
 				(font
@@ -11644,7 +11644,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SODFL3718X170N"
+		(property "Footprint" "Lib:SODFL3718X170N"
 			(at 158.75 113.03 0)
 			(effects
 				(font
@@ -11797,7 +11797,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CSD19531Q5AT"
+		(property "Footprint" "Lib:CSD19531Q5AT"
 			(at 109.855 -54.915 0)
 			(effects
 				(font
@@ -12012,7 +12012,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 250.825 107.188 90)
 			(effects
 				(font
@@ -12085,7 +12085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SODFL3718X170N"
+		(property "Footprint" "Lib:SODFL3718X170N"
 			(at 183.515 97.155 0)
 			(effects
 				(font
@@ -12173,7 +12173,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 227.33 92.583 90)
 			(effects
 				(font
@@ -12246,7 +12246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SODFL3718X170N"
+		(property "Footprint" "Lib:SODFL3718X170N"
 			(at 182.245 144.145 0)
 			(effects
 				(font
@@ -12546,7 +12546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P606X204-8N"
+		(property "Footprint" "Lib:SOIC127P606X204-8N"
 			(at 55.88 199.06 0)
 			(effects
 				(font
@@ -13238,7 +13238,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP50P490X110-10N"
+		(property "Footprint" "Lib:SOP50P490X110-10N"
 			(at 210.82 195.25 0)
 			(effects
 				(font
@@ -13382,7 +13382,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P606X204-8N"
+		(property "Footprint" "Lib:SOIC127P606X204-8N"
 			(at 54.61 233.985 0)
 			(effects
 				(font
