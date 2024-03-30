@@ -512,10 +512,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "schematic-main.net",
-      "plot": "",
+      "plot": "C:/Users/Michał/Desktop/Hydros/Hardware 2024/EF v2/energy-flow-pcb/Production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "schematic-main.step",
+      "step": "EFU.step",
       "svg": "",
       "vrml": ""
     },
